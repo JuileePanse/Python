@@ -1,0 +1,11 @@
+2019-10-16T14:56:03-0700 [-] Loading chatserver.py...
+2019-10-16T14:56:03-0700 [-] Loaded.
+2019-10-16T14:56:03-0700 [twisted.scripts._twistd_unix.UnixAppLogger#info] twistd 19.7.0 (/Library/Frameworks/Python.framework/Versions/3.7/bin/python3.7 3.7.4) starting up.
+2019-10-16T14:56:03-0700 [twisted.scripts._twistd_unix.UnixAppLogger#info] reactor class: twisted.internet.selectreactor.SelectReactor.
+2019-10-16T14:56:03-0700 [-] ServerFactory starting on 1025
+2019-10-16T14:56:03-0700 [twisted.internet.protocol.ServerFactory#info] Starting factory <twisted.internet.protocol.ServerFactory object at 0x108995490>
+2019-10-17T19:22:01-0700 [-] Received SIGTERM, shutting down.
+2019-10-17T19:22:01-0700 [-] (TCP Port 1025 Closed)
+2019-10-17T19:22:01-0700 [twisted.internet.protocol.ServerFactory#info] Stopping factory <twisted.internet.protocol.ServerFactory object at 0x108995490>
+2019-10-17T19:22:01-0700 [-] Main loop terminated.
+2019-10-17T19:22:01-0700 [twisted.scripts._twistd_unix.UnixAppLogger#info] Server Shut Down.
